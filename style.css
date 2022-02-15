@@ -1,0 +1,36 @@
+body{
+    background-color: aquamarine;
+
+}
+#container{
+    background-color: rgb(31, 147, 197);
+    border: 2px solid royalblue;
+    border-radius: 2px;
+    height: 275px;
+    width: 750px;
+    margin: 0 auto;
+    text-align: center;
+   
+}
+
+#btn{
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 22px;
+    background-color: sandybrown;
+    border: 2px solid rgb(255, 119, 0);
+    border-radius: 41px;
+    margin-top: 18px;
+    font-family: 'Baloo 2', cursive;
+}
+#btn:hover{
+    cursor: pointer;
+    background-color: rgb(255, 119, 0);
+}
+#output{
+    margin: 25px auto;
+    font-size: 32px;
+    color: springgreen;
+    font-family: 'Redressed', cursive;
+}
